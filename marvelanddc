@@ -1,6 +1,6 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 
-local PhantomForcesWindow = Library:NewWindow("Marvel and DC superheroes")
+local PhantomForcesWindow = Library:NewWindow("Marvel and DC superheroes made by dower")
 
 local KillingCheats = PhantomForcesWindow:NewSection("main")
 
